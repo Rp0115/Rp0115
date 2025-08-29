@@ -26,6 +26,8 @@ For the Fall 2025 semester at Temple, my current coursework includes:
 - **CIS 3296:** Software Design
 - **CIS 3217:** Computer Architecture
 
+---
+
 ### 🔧 Technologies & Tools
 
 - **Programming Languages:**
