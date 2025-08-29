@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/Rp0115">
-<img src="baner.png" alt="My Profile Banner" width="800"/>
+<img src="banner.png" alt="My Profile Banner" width="800"/>
 </a>
 </p>
 
