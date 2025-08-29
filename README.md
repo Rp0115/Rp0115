@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="link-to-your-banner.png" alt="My Profile Banner" width="800"/>
+<a href="https://github.com/Rp0115">
+<img src="banner.png" alt="My Profile Banner" width="800"/>
+</a>
 </p>
 
 # Hi, I'm Riju Pant 👋
 
-I'm a developer from Japan (🇯🇵) and a student at **Temple University** (🦉) in Philadelphia, pursuing a degree in Computer Science. I'm passionate about the intersection of technology and `[Your Specific Interest, e.g., user experience or creative design]`, and I enjoy the challenge of solving complex problems.
+I'm a developer from Japan (🇯🇵) and a student at **Temple University** (🦉) in Philadelphia, pursuing a degree in Computer Science. I'm passionate about leveraging artificial intelligence and machine learning to solve complex, real-world problems.
 
 <br>
 
