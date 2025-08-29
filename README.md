@@ -10,13 +10,19 @@ I'm a developer from Japan (🇯🇵) and a student at **Temple University** (�
 
 - 🔭 &nbsp; I’m currently working on **a workout tracker iOS mobile app**
 - 🌱 &nbsp; I’m currently learning **Expo** and further enhancing my knowledge of **MySQL**
-- 👯 &nbsp; I’m looking to collaborate on **`[Types of projects, e.g., open-source web apps]`**
-- 🤔 &nbsp; I’m looking for help with **`[A specific challenge or concept]`**
-- 💬 &nbsp; Ask me about **`[Your Hobbies or Interests, e.g., Japanese cinema, photography]`**
-- 😄 &nbsp; Pronouns: **`[He/Him, She/Her, They/Them, etc.]`**
-- ⚡ &nbsp; Fun fact: **`[A fun, quirky fact about you]`**
+- 🤝 &nbsp; I’m open to collaborating on **ML projects and AI-related projects**
+- 📫 &nbsp; How to reach me: **`riju0115@gmail.com`**
+<!-- - 💼 &nbsp; Check out my portfolio: **`[Link to Your Portfolio Website]`** -->
 
 ---
+
+### 🎓 What I'm Up To
+
+For the Fall 2025 semester at Temple, my current coursework includes:
+
+- **CIS 4331:** Principles of Database Systems
+- **CIS 3296:** Software Design
+- **CIS 3217:** Computer Architecture
 
 ### 🔧 Technologies & Tools
 
