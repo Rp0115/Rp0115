@@ -6,25 +6,25 @@
 
 # Hi, I'm Riju Pant 👋
 
-I'm a developer from Japan (🇯🇵) and a student at **Temple University** (🦉) in Philadelphia, pursuing a degree in Computer Science. I'm passionate about leveraging artificial intelligence and machine learning to solve complex, real-world problems.
+I'm a developer from Japan (🇯🇵) and a student at the **University of Pennsylvania** in Philadelphia, pursuing a Masters in Computer Science. I'm passionate about leveraging artificial intelligence and machine learning to solve complex, real-world problems.
 
 <br>
 
-- 🔭 &nbsp; I’m currently working on **a workout tracker iOS mobile app**
-- 🌱 &nbsp; I’m currently learning **Expo** and further enhancing my knowledge of **MySQL**
-- 🤝 &nbsp; I’m open to collaborating on **ML projects and AI-related projects**
-- 📫 &nbsp; How to reach me: **`riju0115@gmail.com`**
-<!-- - 💼 &nbsp; Check out my portfolio: **`[Link to Your Portfolio Website]`** -->
+<!--- - 🔭 &nbsp; I’m currently working on **a workout tracker iOS mobile app** -->
+<!--- - 🌱 &nbsp; I’m currently learning **Expo** and further enhancing my knowledge of **MySQL** -->
+<!--- - 🤝 &nbsp; I’m open to collaborating on **ML projects and AI-related projects** -->
+<!--- - 📫 &nbsp; How to reach me: **`riju0115@gmail.com`** -->
+<!--- - 💼 &nbsp; Check out my portfolio: **`[Link to Your Portfolio Website]`** -->
 
 ---
 
 ### 🎓 What I'm Up To
 
-For the Fall 2025 semester at Temple, my current coursework includes:
+For the Fall 2026 semester at UPenn, my current coursework includes:
 
-- **CIS 4331:** Principles of Database Systems
-- **CIS 3296:** Software Design
-- **CIS 3217:** Computer Architecture
+- **CIS 5050:** Software Systems
+- **CIS 5810:** Computer Vision & Computational Photography
+- **CIS 5200:** Machine Learning
 
 ---
 
