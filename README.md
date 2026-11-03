@@ -8,8 +8,6 @@
 
 I'm a developer from Japan (🇯🇵) and a student at the **University of Pennsylvania** in Philadelphia, pursuing a Masters in Computer Science.
 
-<br>
-
 <!--- - 🔭 &nbsp; I’m currently working on **a workout tracker iOS mobile app** -->
 <!--- - 🌱 &nbsp; I’m currently learning **Expo** and further enhancing my knowledge of **MySQL** -->
 <!--- - 🤝 &nbsp; I’m open to collaborating on **ML projects and AI-related projects** -->
