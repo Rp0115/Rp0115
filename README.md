@@ -6,7 +6,7 @@
 
 # Hi, I'm Riju Pant 👋
 
-I'm a developer from Japan (🇯🇵) and a student at the **University of Pennsylvania** in Philadelphia, pursuing a Masters in Computer Science. I'm passionate about leveraging artificial intelligence and machine learning to solve complex, real-world problems.
+I'm a developer from Japan (🇯🇵) and a student at the **University of Pennsylvania** in Philadelphia, pursuing a Masters in Computer Science.
 
 <br>
 
